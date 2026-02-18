@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "start",
+			"path": "angular1",
+			"problemMatcher": [],
+			"label": "npm: start - angular1",
+			"detail": "ng serve",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}
